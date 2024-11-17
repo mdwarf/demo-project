@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# data used to debug my project, unuseful for staging and committing
+*.xlsx
+*.xls
+
 # Distribution / packaging
 .Python
 build/
